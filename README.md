@@ -12,11 +12,3 @@ I build production-oriented backend services and web applications with **.NET, C
 **Messaging:** RabbitMQ · Kafka  
 **Infrastructure:** Docker · Linux · GitHub Actions  
 **Engineering:** Microservices · Distributed Systems · REST APIs · Testing
-
-### 🚀 What I work on
-
-- Backend services and REST APIs
-- Distributed and event-driven systems
-- Full-stack applications with .NET + React
-- PostgreSQL performance and data modeling
-- Dockerized production services
