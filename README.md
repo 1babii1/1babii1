@@ -28,7 +28,3 @@ Production-oriented implementations of distributed systems patterns in .NET.
 
 **MinimalTaxi**  
 Full-stack ride marketplace built with ASP.NET Core, PostgreSQL/PostGIS and React.
-
-### 📫 Currently
-
-I'm open to **remote Backend / Full-Stack Software Engineer opportunities**.
